@@ -10,5 +10,7 @@ public class Ascent2 {
 		
 		System.out.print("git pull");
 	}
+	
+	System.out.println("git merge");
 
 }
