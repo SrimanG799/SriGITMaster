@@ -6,6 +6,9 @@ public class Ascent2 {
 		{
 			System.out.println(i);
 		}
+		
+		
+		System.out.print("git pull");
 	}
 
 }
